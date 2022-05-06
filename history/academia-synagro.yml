@@ -1,7 +1,7 @@
-url: https://academia.synagro.com.ar
-status: down
-code: 401
-responseTime: 661
-lastUpdated: 2022-05-06T13:57:38.338Z
+url: https://academia.synagro.com.ar/login/canvas
+status: up
+code: 200
+responseTime: 870
+lastUpdated: 2022-05-06T14:07:50.077Z
 startTime: Fri May 06 2022 13:57:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
