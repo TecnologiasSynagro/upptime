@@ -10,22 +10,22 @@ sites:
     url: https://synagroweb.com
     icon: https://synagro.com.ar/favicon.ico
   - name: Academia Synagro
-    url: https://academia.synagro.com.ar
+    url: https://academia.synagro.com.ar/login/canvas
     icon: https://synagro.com.ar/favicon.ico
     
 assignees:
   - triplero6
-  - 
+  - mariosergioalberto
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://synagroweb.com/wp-content/uploads/2020/04/cropped-Synagro-horizontal.jpg
   name: Upptime
   introTitle: "**Synagro** pages to be monitoring."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Mas que un software agropecuario una forma inteligente de gestionar tu empresa.
   navbar:
     - title: Status
       href: /
